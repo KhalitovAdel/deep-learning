@@ -14,10 +14,10 @@
 #### Строки и их кодировки
 [раз](https://habr.com/ru/post/478636/) [дваз](https://habr.com/ru/post/158895/)
 #### [Числа разрядность итп](https://ru.wikipedia.org/wiki/%D0%A7%D0%B8%D1%81%D0%BB%D0%BE%D0%B2%D0%BE%D0%B9_%D1%80%D0%B0%D0%B7%D1%80%D1%8F%D0%B4)
+#### Влгоритмы и Структуры данных
+[раз](https://habr.com/ru/post/497476/)
 #### Форматы хранения данных (Buffer etc) / Стандартные объекты в JS
 [раз](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects)
-#### Структуры данных
-[раз](https://habr.com/ru/post/497476/)
 #### V8
 [raz](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e?gi=cd7f551b8b26)
 #### Event loop
